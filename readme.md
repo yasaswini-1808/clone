@@ -28,3 +28,7 @@ You can still open `index.html` directly in a browser or use a local-server exte
 2. Commit the HTML/CSS change with a focused commit message.
 3. Open a pull request and request a review.
 4. Resolve a planned conflict by editing the same resource entry on two branches.
+
+## Git commands
+
+1.Creation of branch
