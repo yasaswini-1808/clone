@@ -32,3 +32,4 @@ You can still open `index.html` directly in a browser or use a local-server exte
 ## Git commands
 
 1.Creation of branch
+2.Branch created
